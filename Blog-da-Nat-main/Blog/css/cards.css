@@ -4,9 +4,6 @@
     overflow: hidden;
 }
 
-.card.-cats{
-    border-radius: 50%;
-}
 
 .card.-cats .link{
     position: absolute;
